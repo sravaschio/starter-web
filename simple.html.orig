@@ -3,7 +3,11 @@
 Copyright 2014 git.training
 -->
 <head>
+<<<<<<< HEAD
+	<title>A very respectful website</title>
+=======
 	<title>A great website</title>
+>>>>>>> realwork
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -17,11 +21,19 @@ Copyright 2014 git.training
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
+<<<<<<< HEAD
 			not sure what will go here
 		</p>
 	</main>
 	<footer class="container">
 		<p>&copy; jason taylor 2014</p>
+=======
+			some interesting stuff
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Git training 2014</p>
+>>>>>>> realwork
 	</footer>
 </body>
 </html>
