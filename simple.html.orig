@@ -1,17 +1,22 @@
 <!DOCTYPE html>
 <!--
 Copyright 2014 git.training
+
+<<<<<<< HEAD
+other cambios en la master branch
 -->
 <head>
-<<<<<<< HEAD
-	<title>A very respectful website</title>
+	<title>otro titulo q complique</title>
 =======
-	<title>A great website</title>
->>>>>>> realwork
+chages in bigtrouble branch
+-->
+<head>
+	<title>uihuihui title</title>
+>>>>>>> 6bb55c8 (trouble changes)
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
-			padding-top: 50px;
+			padding-top: 20px;
 			padding-bottom: 20px;
 		}
 	</style>
@@ -19,21 +24,23 @@ Copyright 2014 git.training
 </head>
 <body>
 	<main class="container">
-	<!-- Content Goes Here -->
-		<p>
 <<<<<<< HEAD
-			not sure what will go here
+	<!-- aaaaaaaaaaaaaaaaaaaa -->
+		<p>
+			bbbbbbbbbbbbbbbbbb
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; jason taylor 2014</p>
+		<p>&copy; el creador</p>
 =======
-			some interesting stuff
+	<!--contenttttt -->
+		<p>
+not sure what to put here
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; Git training 2014</p>
->>>>>>> realwork
+		<p>&copy; jason not important</p>
+>>>>>>> 6bb55c8 (trouble changes)
 	</footer>
 </body>
 </html>
