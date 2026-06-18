@@ -13,4 +13,4 @@ Sample website with plenty of files for demos
 
 ## copyrights
 
-2014 git.training .
+2014 git.training . adding for stash example
