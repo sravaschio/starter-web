@@ -2,11 +2,11 @@
 # The humans responsible & technology colophon
 
 # TEAM
-aaaaaaa master
+quiero cambiar esto
     Jason Taylos    jason@taylos.com
 
 # THANKS
-aaaaa master
+aaaaaaa que pongo aca
     all my students
     please leave a review
 
