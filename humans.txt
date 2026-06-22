@@ -2,11 +2,11 @@
 # The humans responsible & technology colophon
 
 # TEAM
-    maria test
+bbbbbb git
     Jason Taylos    jason@taylos.com
 
 # THANKS
-    sebastiann change test
+bbbbbb git
     all my students
     please leave a review
 
