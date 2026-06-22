@@ -2,11 +2,11 @@
 # The humans responsible & technology colophon
 
 # TEAM
-bbbbbb git
+aaaaaaa master
     Jason Taylos    jason@taylos.com
 
 # THANKS
-bbbbbb git
+aaaaa master
     all my students
     please leave a review
 
