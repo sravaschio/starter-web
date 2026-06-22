@@ -2,12 +2,11 @@
 # The humans responsible & technology colophon
 
 # TEAM
-    carmen test 2
-    paula test
+    maria test
     Jason Taylos    jason@taylos.com
 
 # THANKS
-    sebastiann test
+    sebastiann change test
     all my students
     please leave a review
 
